@@ -460,7 +460,7 @@ img {
   .sobre-festival {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    column-gap: 5rem;
+    gap: 5rem;
   }
 }
 
